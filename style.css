@@ -129,7 +129,7 @@ footer {
 @media only screen and (max-width: 600px) {
   .content {
     display: flex;
-    flex-direction: column;
+    flex-direction: column-reverse;
   }
   .left {
     width: 100%;
